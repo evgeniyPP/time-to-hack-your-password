@@ -20,7 +20,7 @@ function Footer(props) {
         >
           Hive Systems methodology
         </a>
-        .
+        . We do not save any data, do not worry.
       </p>
     </footer>
   );
